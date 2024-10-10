@@ -14,7 +14,7 @@
             "program": "${workspaceFolder}\\listDemo.ts",
             "preLaunchTask": "tsc: build - tsconfig.json",
             "outFiles": [
-                "${workspaceFolder}/**/*.js"
+                "${workspaceFolder}/*.js"
             ],
             "console": "internalConsole",
         }
